@@ -1,0 +1,15 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "moment-timezone": "^0.5.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
